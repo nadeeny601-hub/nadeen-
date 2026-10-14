@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+// i made a change 
 //converting lower case to upper case
 
 int main()
-{
+{ int x= 0 ;
     printf("Hello world!\n");
     char str[]="my name is nadeen";
     for (int i=0;i<strlen(str);i++)
